@@ -2,6 +2,7 @@
  * number_to_strings.cpp
  *
  * Created by Natthawat Tungruethaipak, 10 April 2020
+ * Contact via e-mail:natthawat.tungruethaipak@mail.kmutt.ac.th
  */
 #include <stdio.h>
 #include <string.h>

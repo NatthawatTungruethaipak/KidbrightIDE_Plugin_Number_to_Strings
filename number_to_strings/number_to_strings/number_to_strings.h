@@ -2,6 +2,7 @@
  * number_to_strings.h
  *
  * Created by Natthawat Tungruethaipak, 10 April 2020
+ * Contact via e-mail:natthawat.tungruethaipak@mail.kmutt.ac.th
  */
 #ifndef __tostring_H__
 #define __tostring_H__
