@@ -10,7 +10,7 @@
 #include "kidbright32.h"
 #include "driver/uart.h"
 #include "soc/uart_struct.h"
-#include "tostring.h"
+#include "number_to_strings.h"
 
 number_to_strings::number_to_strings()
 {
@@ -70,5 +70,5 @@ char *number_to_strings::numbertostring(double input)
 
 char *number_to_strings::numbertostring()
 {
-  return "Please input the number.";
+  return "Please insert the block which is number block after number_to_strings.";
 }
